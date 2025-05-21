@@ -1,4 +1,4 @@
-const css = `
+/* const css = ` */
 /* CSS Variables - Cyber Glow Theme */
 :root {
   --primary-glow: #00f2ea; /* Neon Teal */
@@ -929,4 +929,4 @@ footer {
   background: var(--bg-dark-tertiary);
 }
 
-`;
+/* `; */
